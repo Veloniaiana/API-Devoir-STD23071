@@ -1,11 +1,11 @@
 # README
-- [i] Ceci est un repo pour un devoir d'API sur les *formats des données contextuelles.*
+- Ceci est un repo pour un devoir d'API sur les *formats des données contextuelles.*
 
-- [k] Il consiste à écrire des données dans deux sur des fichiers avec des bonnes extensions tels que : 
-    - [*] .json pour JSON,
-    - [*] .xml pour XML,
-    - [*] .yml pour YML,
-    - [*] .csv pour CSV
+- Il consiste à écrire des données dans deux sur des fichiers avec des bonnes extensions tels que : 
+    - .json pour JSON,
+    - .xml pour XML,
+    - .yml pour YML,
+    - .csv pour CSV
 
 ## Cas 1 :
 
